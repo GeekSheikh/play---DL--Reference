@@ -6,6 +6,9 @@ __pycache__/
 # Data Dirs
 *data
 
+# TensorBoard Logs
+*logs_*
+
 # C extensions
 *.so
 
